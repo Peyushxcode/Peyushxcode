@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS and Express**
+- 🌱 I’m currently learning **Blockchain & Web3**
 
 - 📫 How to reach me **peyushpandit3305@gmail.com**
 
